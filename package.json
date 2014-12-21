@@ -1,0 +1,15 @@
+{
+  "name": "splarg",
+  "version": "0.0.1",
+  "description": "Argument utils",
+  "main": "index.js",
+  "keywords": [
+    "argument",
+    "utils",
+    "callback"
+  ],
+  "author": {
+    "name": "Oskar Dahlberg"
+  },
+  "license": "MIT"
+}
