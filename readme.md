@@ -28,6 +28,7 @@ remove trailing undefined values or optionally pass a filter
 
 ### splitCallback
 splits the arguments if the last is a function
+
 	(3, 4, fn) -> [[3, 4], fn]
 
 optionally pass a minimum callback index
