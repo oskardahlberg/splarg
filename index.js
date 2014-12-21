@@ -5,7 +5,9 @@ var utils = {
   splitCallback: require('./lib/array/split-callback')
 };
 
-module.exports = splargify();
+var splarg = splargify();
+splarg.utils = utils;
+module.exports = splarg;
 
 function splargify (stack, handler) {
   if (!stack) stack = [];
