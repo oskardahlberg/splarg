@@ -1,5 +1,9 @@
 # Splarg
 
+---
+In retrospect, this doesnt make that much sense and all use cases are probably covered by new es2015 features (i.e., spread)
+---
+
 Utils for dealing with function arguments
 
 You can either just require the individual methods (/lib/method)
